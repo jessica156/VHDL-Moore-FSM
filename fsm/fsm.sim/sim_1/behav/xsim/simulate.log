@@ -1,0 +1,7 @@
+Vivado Simulator 2018.1
+Time resolution is 1 ps
+Error: Assertion violation
+Time: 6100 ns  Iteration: 1  Process: /fsm_tb/test_vector_gen  File: C:/Users/jessi/Documents/Spring 2019/FPGA Design/HW4/fsm/fsm.srcs/sim_1/new/fsm_tb.vhd
+Failure: Simulation Completed
+Time: 6100 ns  Iteration: 1  Process: /fsm_tb/test_vector_gen  File: C:/Users/jessi/Documents/Spring 2019/FPGA Design/HW4/fsm/fsm.srcs/sim_1/new/fsm_tb.vhd
+$finish called at time : 6100 ns : File "C:/Users/jessi/Documents/Spring 2019/FPGA Design/HW4/fsm/fsm.srcs/sim_1/new/fsm_tb.vhd" Line 92
